@@ -1,0 +1,4 @@
+name: JumpAndFirework
+version: '${version}'
+main: net.zoizoi.spigot.jump_and_firework.JumpAndFirework
+authors: [ZOI_dayo]
